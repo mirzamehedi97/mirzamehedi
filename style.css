@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;500&display=swap');
+
+
+body{
+    background-image: url(https://source.unsplash.com/1920x1080/?nature,water);
+    background-repeat: no-repeat;
+}
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    width: 1024px;
+    background-color: rgba(0, 0, 0, 0.897);
+}
+header{
+    text-align: center;
+    padding-top: 20px;
+  
+}
+nav{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+main{
+
+    
+    padding-left: 240px;
+    padding-right: 240px ;
+}
+section{
+    
+   
+    padding-right: 100px;
+    padding-left: 100px;
+}
+footer{
+    color: white;
+    text-align: center;
+        
+}
+nav a{
+    color: white;
+    padding-right: 10px;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+section ul{
+    color: white;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+}
+footer p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 10px;
+    font-family: 'Poppins', sans-serif;
+
+}
